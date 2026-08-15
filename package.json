@@ -1,0 +1,18 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "a backend revison project",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai",
+    "ANkit"
+  ],
+  "license": "ISC",
+  "author": "Ankit",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
